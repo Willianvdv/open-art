@@ -6,7 +6,7 @@ include Magick
 
 class Rembrandt
   def initialize
-    @canvas = Image.new(300, 300) { self.background_color = "white" }
+    @canvas = Image.new(500, 500) { self.background_color = "white" }
   end
 
   def paint
@@ -44,7 +44,7 @@ class Rembrandt
   end
 
   def pixel_files
-    Dir["canvas/**.yaml"]
+    Dir["canvas/**.yml"]
   end
 end
 
