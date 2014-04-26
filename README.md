@@ -69,13 +69,11 @@ git push origin the-night-watch
 
 10. Yeyyy! PR accepted! and the painting is updated!
 
+#### If you have send a open-art pull request before
+
+Todo: Tell something about syncing the fork with the original
 
 ### Update Rembrandt
 Rembrandt is a small script rendering the canvas.
 I didn't spend anytime optimising it,
 also I'm not sure if I've chosen the most efficient grid system.
-
-
-#### If you have send a open-art pull request before
-
-Todo: Tell something about syncing the fork with the original
