@@ -53,17 +53,21 @@ See the results by opening `painting.gif`
 open painting.gif
 ```
 
-
-
 6. todo: commit
+```
+git commit -a -m 'Look at the pixels I changed'
+```
 
 7. todo: push
+```
+git push origin the-night-watch
+```
 
 8. todo: pull request
 
 9. wait..
 
-10. Yeyyy! PR accepted!
+10. Yeyyy! PR accepted! and the painting is updated!
 
 
 ### Update Rembrandt
