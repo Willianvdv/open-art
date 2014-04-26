@@ -46,6 +46,15 @@ Switched to a new branch 'the-night-watch'
 all the pixels with their colors.
 
 5. todo: run rembrandt to see the result
+```
+ruby rembrandt.rb
+```
+See the results by opening `painting.gif`
+```
+open painting.gif
+```
+
+
 
 6. todo: commit
 
