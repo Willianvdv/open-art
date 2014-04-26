@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    color_porter (0.0.1)
+    rmagick (2.13.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  color_porter
+  rmagick (= 2.13.2)

@@ -6,12 +6,11 @@ learn people that are new to git(hub) how a pull request works
 
 ## Result so far
 
-todo: add the rendered picture here
+![Result so far](painting.gif)
 
 ## Rules
 
 - Be nice :)
-- In every pull request you can only update 5 pixels
 
 ## Contribute
 
