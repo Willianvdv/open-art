@@ -11,6 +11,13 @@ learn people that are new to git(hub) how a pull request works
 ## Rules
 
 - Be nice :)
+- Make the canvas collaboration friendly
+
+## Some inspiration
+
+- Make a script that adds a smiley to the canvas
+- ..
+- ..
 
 ## Contribute
 
@@ -75,5 +82,5 @@ Todo: Tell something about syncing the fork with the original
 
 ### Update Rembrandt
 Rembrandt is a small script rendering the canvas.
-I didn't spend anytime optimising it,
+I didn't spend any time optimising it,
 also I'm not sure if I've chosen the most efficient grid system.
